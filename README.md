@@ -14,13 +14,13 @@
 npm install
 ```
 
-## Run Locally
+### Run Locally
 
 ```
 npm start
 ```
 
-## Contribute
+#### Contribute
 
 Covid-19 India Tracker is an open source project. So, feel free to contribute. And if you're new to contributing to Open Source on Github, then [this guide](https://guides.github.com/activities/contributing-to-open-source/) will help you.
 
