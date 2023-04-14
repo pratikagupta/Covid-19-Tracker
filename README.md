@@ -31,3 +31,4 @@ If you find any error or have any suggestion, feel free to create an [issue](htt
 - Thanks, [@covid19india](https://github.com/covid19india) for the awesome [API](https://api.covid19india.org/). Was previously using [this API](https://api.rootnet.in/covid19-in/)
 - Thanks, [Drawer](https://drawer.design/products/coronavirus-icons) for the awesome Icons.
 
+
